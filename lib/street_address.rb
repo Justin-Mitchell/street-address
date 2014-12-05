@@ -144,6 +144,7 @@ module StreetAddress
       "corner" => "cor",
       "corners" => "cors",
       "course" => "crse",
+      "ct" => "ct",
       "court" => "ct",
       "courts" => "cts",
       "cove" => "cv",
